@@ -18,6 +18,15 @@ function AboutPage(props) {
             <p><a href="https:www.linkedin.com/in/andrew-park-b6602b15">Here </a>is my LinkedIn profile.</p>
 
             <p>Please view my <a href="https://awpdev.github.io/assets/Andrew's%20Resume.pdf">resume.</a></p>
+
+            <p>
+                Contact me:
+                <br />
+                    <a href="mailto:apark999@gmail.com">Email me</a>
+                    <br />
+                    Phone: (425)223-8775
+                    
+            </p>
             </Content>
         </div>
     );

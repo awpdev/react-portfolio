@@ -13,7 +13,8 @@ function Footer() {
                         Andrew Park
                     </Col>
                     <Col className="p-0 d-flex justify-content-end" md={3}>
-                        React App
+                        apark999@gmail.com
+                           (425)223-8775
                     </Col>
                 </Row>
             </Container>
