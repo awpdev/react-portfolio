@@ -8,5 +8,8 @@ A portfolio page created using React App.
 
 [Deployed link](https://awpdev.github.io)
 
+## Screenshot
+![projects](./src/assets/images/projects.png)
+
 ## Credits
 Garrett Love for templates
